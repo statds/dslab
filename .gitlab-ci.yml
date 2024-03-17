@@ -1,0 +1,21 @@
+variables:
+  S3_BUCKET_NAME: "statds.org"
+  dis_id: "E3DVVXYMMAN6SE"
+
+image: python:3.9-slim
+
+production:
+  stage: deploy
+  before_script:
+    - apt-get update
+    - apt-get install -y bash ca-certificates pandoc
+    - pip install --upgrade setuptools wheel
+    - pip install awscli==1.19.112
+    - aws --version
+  script:
+    - bash compile.sh
+    - aws s3 sync html/ s3://$S3_BUCKET_NAME
+    - aws configure set preview.cloudfront true
+    - aws cloudfront create-invalidation --distribution-id $dis_id --paths '/*'
+  only:
+    - main

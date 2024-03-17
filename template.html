@@ -1,0 +1,80 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <title>$if(title-prefix)$$title-prefix$ : $endif$$pagetitle$</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
+    rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.css" rel="stylesheet">
+  $for(header-includes)$
+  $header-includes$
+  $endfor$
+</head>
+
+<body>
+  <div class="navbar-wrapper">
+    <!-- logo -->
+    <!-- <img src="doc/image/blank_photo.png" alt="Logo" class="navbar-logo"> -->
+    <div class="navbar-content">
+      <div class="navbar-title">
+        <div class="titlecontent">
+          Connecticut Data Science Lab
+        </div>
+        <div class="titlecontent-short">
+          CTDSLab
+        </div>
+      </div>
+
+      <div class="topnav" id="myTopnav">
+        <a $if(navbar-index)$class="active" $endif$href="index.html">Home</a>
+        <a $if(navbar-about)$class="active" $endif$href="about.html">About</a>
+        <a $if(navbar-people)$class="active" $endif$href="people.html">People</a>
+        <a $if(navbar-events)$class="active" $endif$href="events.html">Events</a>
+        <a $if(navbar-education)$class="active" $endif$href="education.html">Education</a>
+        <a $if(navbar-engagement)$class="active" $endif$href="engagement.html">Engagement</a>
+        <a $if(navbar-templates)$class="active" $endif$href="templates.html">Templates</a>
+        <a $if(navbar-media)$class="active" $endif$href="media.html">Media</a>
+        $if(activePage)$
+        <a class="active hide-on-large" href="#">$title$</a>
+        $endif$
+        <a href="javascript:void(0);" class="icon" onclick="navbar()">
+          <i class="fa fa-bars"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+
+  <!-- Main content -->
+  <div class="content row">
+    <div class="medium-12 columns">
+      $if(title-home)$
+      <h3 class="mb-3">$title$</h3>
+      $endif$
+      $body$
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <!-- make sure footer does not cover content -->
+  <div class="footer-padding" style="padding: 20px 0px;"></div>
+  <footer id="footer-content">
+    <p style="padding: 0; margin: 0;">&copy;
+      <a href="https://statds.org/">
+        Connecticut Data Science Lab
+      </a>
+    </p>
+  </footer>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.js"></script>
+</body>
+</html>
