@@ -3,7 +3,7 @@ title: Events
 title-home: true
 ---
 
-<!-- + [International Forum Data Science (IFDS) 2024](https://statds.org/events/ifds2024/) -->
+<!-- + [International Forum On Data Science (IFODS) 2024](https://statds.org/events/ifods2024/) -->
 <!--   - Date TBD -->
 
 + [UConn Sports Analytics Symposium (UCSAS) 2024](https://statds.org/events/ucsas2024/)
