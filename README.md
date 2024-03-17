@@ -3,7 +3,8 @@
 This repository contains the source code and content for the CTDSLab website.
 
 ## Pipeline status:
-[![pipeline status](https://gitlab.com/statds/statds/badges/master/pipeline.svg)](https://gitlab.com/statds/statds/commits/main)
+
+![Deploy status](https://github.com/statds/dslab/actions/workflows/main.yml/badge.svg)
 
 
 ## Directory Structure
