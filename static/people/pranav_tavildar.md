@@ -2,7 +2,7 @@
 firstname: Pranav
 lastname: Tavildar
 role: Undergraduate student
-group: Student
+group: Alumni
 image: doc/image/Pranav-Tavildar.jpg
 link: https://www.linkedin.com/in/pranav-tavildar-b50172208/
 ---
