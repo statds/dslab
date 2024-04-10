@@ -10,8 +10,8 @@ dsclubs <- dsclubs %>%
   rename(contact_email = email_address_of_contact_person_it_will_be_used_for_data_science_event_communications_only)
 
 
-# Start diverting output to club_directory.md
-sink("../static/club_directory.md")
+# Start diverting output to engagement.md
+sink("../static/engagement.md")
 cat("---\ntitle: Master List of Data Science Clubs\ntitle-home: True\n---\n\n")
 
 for (row in 1:nrow(dsclubs)) {
