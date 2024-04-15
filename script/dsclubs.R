@@ -12,7 +12,7 @@ dsclubs <- dsclubs %>%
 
 # Start diverting output to engagement.md
 sink("../static/engagement.md")
-cat("---\ntitle: Master List of Data Science Clubs\ntitle-home: True\n---\n\n")
+cat("---\ntitle: Master List of Data Science Clubs\ntitle-home: True\n---\n\nIf you would like your club to be listed, please fill the [form](https://forms.gle/AM2f8aYC6bje4L4X8).\n")
 
 for (row in 1:nrow(dsclubs)) {
   cat('\n+', dsclubs[row,]$institution_name, ': ')
