@@ -6,11 +6,14 @@ title-home: true
 <!-- + [International Forum On Data Science (IFODS) 2024](https://statds.org/events/ifods2024/) -->
 <!--   - Date TBD -->
 
++ [Connecticut Sports Analytics Symposium (CSAS) 2026](https://statds.org/events/csas2026/)
+  - Friday, April 10 - Saturday, April 11, 2026
+
 + [Connecticut Sports Analytics Symposium (CSAS) 2025](https://statds.org/events/csas2025/)
-  - Friday, April 11, 2025 - Saturday, April 12, 2025
+  - Friday, April 11 - Saturday, April 12, 2025
 
 + [UConn Sports Analytics Symposium (UCSAS) 2024](https://statds.org/events/ucsas2024/)
-  - Friday, April 12, 2024 - Saturday, April 13, 2024
+  - Friday, April 12 - Saturday, April 13, 2024
 
 + [UConn Sports Analytics Symposium (UCSAS) 2022](https://statds.org/events/ucsas2022/)
   - Saturday, October 8, 2022
