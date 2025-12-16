@@ -1,14 +1,15 @@
 ---
 firstname: Mathew
 lastname: Chandy
-role: Undergraduate student
-group: Student
+role: PhD Student
+group: Alumni
 image: doc/image/Mathew-Chandy.jpg
 link: https://www.linkedin.com/in/mathew-chandy/
 ---
 
-Mathew Chandy is an undergraduate majoring in Statistics and Data
+Mathew Chandy is second-year Ph.D. student in Data Science at UCLA. 
+He previous sought an undergraduate degree in Statistics and Data
 Science at the University of Connecticut. His research interests
 include block bootstrapping, econometrics, and biostatistics. He
-manages the YouTube Channel of the lab, and he is a maintainer for
+managed the YouTube Channel of the lab, and he formerly maintained 
 UConn Data Science related websites.
