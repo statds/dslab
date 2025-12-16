@@ -9,5 +9,5 @@ title-home: false
 
 ### Upcoming Event
 
-+ [Connecticut Sports Analytics Symposium (CSAS) 2026](https://statds.org/events/csas2026/index.html
++ [Connecticut Sports Analytics Symposium (CSAS) 2026](https://statds.org/events/csas2026/index.html)
   - Friday, April 10, 2026 - Saturday, April 11, 2026
