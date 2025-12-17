@@ -1,7 +1,7 @@
 ---
 firstname: Mathew
 lastname: Chandy
-role: PhD Student
+role: Ph.D. Student
 group: Alumni
 image: doc/image/Mathew-Chandy.jpg
 link: https://www.linkedin.com/in/mathew-chandy/
