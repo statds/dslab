@@ -24,7 +24,9 @@ communication about the results. Specific functions are as follows.
 -   Maintain a department-wide (possibly campus-wide in the future) data
     science support through a standing committee.
 
-### Upcoming Event
+
+## Upcoming Event
+
 
 -   [Connecticut Sports Analytics Symposium (CSAS)
     2026](https://statds.org/events/csas2026/index.html)
