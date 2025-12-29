@@ -25,7 +25,7 @@ communication about the results. Specific functions are as follows.
     science support through a standing committee.
 
 
-## Upcoming Event
+### Upcoming Event
 
 
 -   [Connecticut Sports Analytics Symposium (CSAS)
