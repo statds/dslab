@@ -1,14 +1,14 @@
 ---
 firstname: Surya
 lastname: Eada
-role: PhD student
-group: Student
+role: Ph.D. 2024
+group: Alumni
 image: doc/image/Surya-Eada.jpg
 link: https://www.linkedin.com/in/surya-teja-eada-76b78229/
 ---
 
-Surya Teja Eada is a Ph.D. student in Statistics at the University of
-Connecticut. Prior to his pursuit of his doctorate degree, he worked
+Surya Teja Eada graduated from the University of Connecticut with a Ph.D.
+in statistics. Prior to his pursuit of his doctorate degree, he worked
 for 3 years as a Statistical Analyst focusing on model validation,
 risk analysis as a consultant for a commercial bank. His research
 areas of interest include applications of statistics to finance, plant
@@ -18,4 +18,5 @@ teaching assistant for 4 years and also as an intern in eClerx,
 Deloitte, and as an IMSI intern at USDA's RIPE lab. He also holds a
 bachelor's and master's degree in Statistics from Indian Statistical
 Institute, Kolkata and Master's in Applied Financial Mathematics at
-UConn.
+UConn. Currently, he works as a Senior Quantitative Model Development 
+Analyst at Truist.
