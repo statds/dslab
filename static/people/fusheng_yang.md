@@ -1,7 +1,7 @@
 ---
 firstname: Fusheng
 lastname: Yang
-role: PhD student
+role: Ph.D. Student
 group: Student
 image: doc/image/Fusheng-Yang.jpg
 link: https://www.linkedin.com/in/fusheng-yang-784099b2/
