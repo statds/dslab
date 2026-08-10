@@ -1,9 +1,10 @@
+
 library(tidyverse)
 library(janitor)
 #Load the required library 
 library(googlesheets4)
 #Read google sheets data into R
-dsclubs <- read_sheet('https://docs.google.com/spreadsheets/d/13eUYaYWLbr14MU7XE7tcSKqFNeGlovYBiR6QbKFu8RU/edit?resourcekey#gid=1620849106')
+dsclubs <- read.csv('data_science_clubs.csv')
 
 dsclubs <- clean_names(dsclubs)
 dsclubs <- dsclubs %>% 
@@ -12,19 +13,21 @@ dsclubs <- dsclubs %>%
 
 # Start diverting output to engagement.md
 sink("../static/engagement.md")
-cat("---\ntitle: Master List of Data Science Clubs\ntitle-home: True\n---\n\nIf you would like your club to be listed, please fill the [form](https://forms.gle/AM2f8aYC6bje4L4X8).\n")
+cat("---\ntitle: Master List of Data Science Clubs\ntitle-home: True\n---\n\nIf you would like your club to be listed, please fill the [form](https://docs.google.com/forms/d/e/1FAIpQLScNtQ4SxBBxmHo_lZBz0gb9EW7Z1Esk2tvEdLanIMrXaP36zw/viewform).\n")
 
 for (row in 1:nrow(dsclubs)) {
   cat('\n+', dsclubs[row,]$institution_name, ': ')
   web <- dsclubs[row,]$club_organization_website
+  
   if (is.na(web) == FALSE) {
     cat('[', dsclubs[row,]$club_organization_name, '](', web, ')')
   } else {
     cat(dsclubs[row,]$club_organization_name)
   }
+  
   linked_in <- dsclubs[row,]$linked_in
   if (is.na(linked_in) == FALSE) cat(' | [LinkedIn](', linked_in, ')')
-
+  
   x <- dsclubs[row,]$x
   if (is.na(x) == FALSE) {
     if (startsWith(x, '@')) {
