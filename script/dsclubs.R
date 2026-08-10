@@ -15,6 +15,8 @@ dsclubs <- dsclubs %>%
 sink("../static/engagement.md")
 cat("---\ntitle: Master List of Data Science Clubs\ntitle-home: True\n---\n\nIf you would like your club to be listed, please fill the [form](https://docs.google.com/forms/d/e/1FAIpQLScNtQ4SxBBxmHo_lZBz0gb9EW7Z1Esk2tvEdLanIMrXaP36zw/viewform).\n")
 
+dsclubs <- dsclubs[order(dsclubs$institution_name), ]
+
 for (row in 1:nrow(dsclubs)) {
   cat('\n+', dsclubs[row,]$institution_name, ': ')
   web <- dsclubs[row,]$club_organization_website
