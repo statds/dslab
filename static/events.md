@@ -6,6 +6,9 @@ title-home: true
 <!-- + [International Forum On Data Science (IFODS) 2024](https://statds.org/events/ifods2024/) -->
 <!--   - Date TBD -->
 
++ [Connecticut Sports Analytics Symposium (CSAS) 2027](https://statds.org/events/csas2027/)
+  - Friday, April 9 - Saturday, April 10, 2027
+
 + [Connecticut Sports Analytics Symposium (CSAS) 2026](https://statds.org/events/csas2026/)
   - Friday, April 10 - Saturday, April 11, 2026
 
