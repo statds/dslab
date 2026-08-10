@@ -25,10 +25,10 @@ communication about the results. Specific functions are as follows.
     science support through a standing committee.
 
 
-<!-- +### Upcoming Event
+### Upcoming Event
 
 
 -   [Connecticut Sports Analytics Symposium (CSAS)
-    2026](https://statds.org/events/csas2026/index.html)
-    -   Friday, April 10, 2026 - Saturday, April 11, 2026
-    -->
+    2027](https://statds.org/events/csas2027/index.html)
+    -   Friday, April 9, 2027 - Saturday, April 10, 2027
+    
