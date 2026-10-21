@@ -3,7 +3,7 @@ firstname: Brian
 lastname: Macdonald
 role: Senior Lecturer and Research Scientist, Yale University
 group: Faculty
-image: events/ucsas2024/photos/MacdonaldBrian.jpg
+image: images/brian_macdonald.jpg
 link: https://www.linkedin.com/in/bmacgtpm/
 ---
 
