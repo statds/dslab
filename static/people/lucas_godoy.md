@@ -3,7 +3,7 @@ firstname: Lucas
 lastname: Godoy
 role: Ph.D. 2024
 group: Alumni
-image: doc/image/Lucas-Godoy.jpg
+image: images/lucas_godoy.jpg
 link: https://lcgodoy.me/
 ---
 

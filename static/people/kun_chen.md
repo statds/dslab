@@ -3,7 +3,7 @@ firstname: Kun
 lastname: Chen
 role: Professor
 group: Faculty
-image: doc/image/Kun-Chen.jpg
+image: images/kun_chen.jpg
 link: http://kun-chen.uconn.edu/
 ---
 

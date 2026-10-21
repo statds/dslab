@@ -3,7 +3,7 @@ firstname: Yiming
 lastname: Zhang
 role: Ph.D. 2022
 group: Alumni
-image: doc/image/Yiming-Zhang.jpeg
+image: image/yiming_zhang.jpeg
 link: https://www.linkedin.com/in/yimingzhang7/
 ---
 

@@ -3,7 +3,7 @@ firstname: Gregory J.
 lastname: Matthews
 role: Associate Professor, Loyola University Chicago
 group: Faculty
-image: doc/image/Gregory-Matthews.jpg
+image: images/gregory_matthews.jpg
 link: 
 ---
 

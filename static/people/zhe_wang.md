@@ -3,7 +3,7 @@ firstname: Zhe
 lastname: Wang
 role: Ph.D. 2020
 group: Alumni
-image: doc/image/Zhe-Wang.jpeg
+image: images/zhe_wang.jpeg
 link: https://denison.edu/people/zhe-wang/
 ---
 

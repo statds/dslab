@@ -3,7 +3,7 @@ firstname: Venkata
 lastname: Patchigolla
 role: BS 2022
 group: Alumni
-image: doc/image/Venkata-Patchigolla.jpg
+image: images/venkata_patchigolla.jpg
 link: https://www.linkedin.com/in/venkata-patchigolla-0a0a66214/
 ---
 

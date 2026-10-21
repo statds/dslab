@@ -3,7 +3,7 @@ firstname: Jun (Bruce)
 lastname: Jin
 role: Ph.D. 2024
 group: Alumni
-image: doc/image/Jun-Jin.jpg
+image: images/jun_jin.jpg
 link: https://www.linkedin.com/in/jun-jin-7714701b8/
 ---
 

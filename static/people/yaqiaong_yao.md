@@ -3,7 +3,7 @@ firstname: Yaqiong
 lastname: Yao
 role: Ph.D. 2021
 group: Alumni
-image: doc/image/Yaqiong-Yao.jpg
+image: images/yaqiong_yao.jpg
 link: https://www.linkedin.com/in/yaqiong-yao-960157134/
 ---
 

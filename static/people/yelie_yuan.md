@@ -3,7 +3,7 @@ firstname: Yelie
 lastname: Yuan
 role: PhD student
 group: Alumni
-image: doc/image/Yelie-Yuan.jpg
+image: images/yelie_yuan.jpg
 link: https://yelieyuan.com
 ---
 

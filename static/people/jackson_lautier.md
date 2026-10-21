@@ -3,7 +3,7 @@ firstname: Jackson
 lastname: Lautier
 role: Ph.D. 2023
 group: Alumni
-image: doc/image/Jackson-Lautier.jpg
+image: images/jackson_lautier.jpg
 link: https://jacksonlautier.com/
 ---
 

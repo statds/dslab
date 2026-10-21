@@ -3,7 +3,7 @@ firstname: Hari
 lastname: Patchigolla
 role: B.A. 2024
 group: Alumni
-image: doc/image/Hari-Patchigolla.jpg
+image: images/hari_patchigolla.jpg
 link: https://www.linkedin.com/in/hari-patchigolla/
 ---
 

@@ -3,7 +3,7 @@ firstname: Haim
 lastname: Bar
 role: Associate Professor
 group: Faculty
-image: doc/image/Haim-Bar.jpg
+image: images/haim_bar.jpg
 link: https://haim-bar.uconn.edu/
 ---
 

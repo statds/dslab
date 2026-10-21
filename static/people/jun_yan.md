@@ -3,7 +3,7 @@ firstname: Jun
 lastname: Yan
 role: Professor
 group: Faculty
-image: doc/image/Jun-Yan.jpg
+image: images/jun_yan.jpg
 link: https://statcomp.org/
 ---
 

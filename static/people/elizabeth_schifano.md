@@ -3,7 +3,7 @@ firstname: Elizabeth
 lastname: Schifano
 role: Associate Professor
 group: Faculty
-image: doc/image/Elizabeth-Schifano.jpg
+image: images/elizabeth_schifano.jpg
 link: https://elizabeth-schifano.uconn.edu/
 ---
 

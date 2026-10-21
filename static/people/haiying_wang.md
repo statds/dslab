@@ -3,7 +3,7 @@ firstname: HaiYing
 lastname: Wang
 role: Associate Professor
 group: Faculty
-image: doc/image/HaiYing-Wang.jpg
+image: images/haiying_wang.jpg
 link: https://ossifragus.github.io/
 ---
 

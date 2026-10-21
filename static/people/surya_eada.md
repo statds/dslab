@@ -3,7 +3,7 @@ firstname: Surya
 lastname: Eada
 role: Ph.D. 2024
 group: Alumni
-image: doc/image/Surya-Eada.jpg
+image: images/surya_eada.jpg
 link: https://www.linkedin.com/in/surya-teja-eada-76b78229/
 ---
 

@@ -3,7 +3,7 @@ firstname: Henry
 lastname: Linder
 role: Ph.D. 2019
 group: Alumni
-image: doc/image/Henry-Linder.jpg
+image: images/henry_linder.jpg
 link: https://www.linkedin.com/in/mhlinder/
 ---
 

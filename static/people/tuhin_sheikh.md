@@ -3,7 +3,7 @@ firstname: Tuhin
 lastname: Sheikh
 role: Ph.D. 2022
 group: Alumni
-image: doc/image/Tuhin-Sheikh.jpg
+image: images/tuhin_sheikh.jpg
 link: https://www.linkedin.com/in/tuhinsheikh/
 ---
 

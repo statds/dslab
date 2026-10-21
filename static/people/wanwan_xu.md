@@ -3,7 +3,7 @@ firstname: Wanwan
 lastname: Xu
 role: Ph.D. 2021
 group: Alumni
-image: doc/image/Wanwan-Xu.png
+image: images/wanwan_xu.png
 link: https://www.linkedin.com/in/wanwan-xu/
 ---
 

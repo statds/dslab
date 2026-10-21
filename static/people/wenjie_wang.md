@@ -3,7 +3,7 @@ firstname: Wenjie
 lastname: Wang
 role: Ph.D. 2019
 group: Alumni
-image: doc/image/Wenjie-Wang.jpg
+image: images/wenjie_wang.jpg
 link: https://wwenjie.org/
 ---
 

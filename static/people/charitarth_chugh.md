@@ -3,7 +3,7 @@ firstname: Charitarth
 lastname: Chugh
 role: Graduate student
 group: Student
-image: doc/image/Charitarth-Chugh.jpg
+image: images/charitarth_chugh.jpg
 link: https://www.linkedin.com/in/charitarth/
 ---
 

@@ -3,7 +3,7 @@ firstname: Patrick
 lastname: Cummins
 role: B.A. 2024
 group: Alumni
-image: doc/image/Patrick-Cummins.jpg
+image: images/patrick_cummins.jpg
 link: https://www.linkedin.com/in/patrick-cummins-25373a20a/
 ---
 

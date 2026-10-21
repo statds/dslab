@@ -3,7 +3,7 @@ firstname: Pranav
 lastname: Tavildar
 role: BS 2023
 group: Alumni
-image: doc/image/Pranav-Tavildar.jpg
+image: image/pranav_tavildar.jpg
 link: https://www.linkedin.com/in/pranav-tavildar-b50172208/
 ---
 
